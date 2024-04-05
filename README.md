@@ -21,6 +21,7 @@ The project is implemented using Python programming language, utilizing librarie
 7. Customize parameters, data sources, or models as needed for your specific use case.
 
 ## Contributors:
-- Michelangelo D'Andrea, Lorenzo Calamida
+- Michelangelo D'Andrea
+- Lorenzo Calamida
 
 Enjoy exploring the fascinating intersection of momentum investing and volatility modeling with GARCH processes!
